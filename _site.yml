@@ -1,0 +1,12 @@
+name: "STATCOM"
+navbar:
+  title: "STATCOM Website"
+left:
+  - text: "Home"
+href: index.html
+- text: "About"
+href: about.html
+- text: "Projects"
+href: about.html
+- text: "Contact Us"
+href: about.html
