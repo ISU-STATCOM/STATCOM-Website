@@ -1,0 +1,9 @@
+---
+title: "index"
+author: "Anyesha Ray"
+date: "2023-08-01"
+output: html_document
+---
+
+# STATCOM at ISU
+STATCOM at Iowa State offers statistical advice and expertise free of charge to governmental and nonprofit groups in the local community.

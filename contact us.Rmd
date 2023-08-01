@@ -1,0 +1,15 @@
+---
+title: "contact us"
+author: "Anyesha Ray"
+date: "2023-08-01"
+output: html_document
+---
+
+
+You can send your request to statcom@iastate.edu and our officers will will contact you to determine how best to learn more about your project.
+
+# About our Volunteers
+Our volunteers are students who are interested in serving the community through statistical consulting projects. Our volunteers are mainly comprised of graduate students in the Department of Statistics (MS and Ph.D.). Faculty members serve an advisory role in STATCOM, providing leadership, assistance with client meetings, and statistical consulting advice as needed, especially in initial consultations. However, projects are conducted and led by our student volunteers.
+
+
+Note: STATCOM cannot provide consulting for other ISU departments or graduate students. Please refer to the Statistical Consulting at the Department of Statistics

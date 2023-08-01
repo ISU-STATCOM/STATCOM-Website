@@ -1,0 +1,33 @@
+---
+title: "about"
+author: "Anyesha Ray"
+date: "2023-08-01"
+output: html_document
+---
+STATCOM (Statistics in the Community) at Iowa State University is a student-run volunteer organization at the Department of Statistics that provides pro-bono statistical consulting to local organizations that work for the common good.
+
+The program offers the expertise of statistics graduate students, free of charge, to non-profit governmental and community organizations in the areas of data organization, analysis, and interpretation.
+
+
+# History
+Statistics in the Community (STATCOM) is a student-run volunteer organization started in 2001 at the Department of Statistics Purdue University. With support from a Member Initiatives Grant from the American Statistical Association (ASA), a network of Statistics in the Community (STATCOM) programs was started in 2006.
+
+# Mission
+The mission of the Statistics in the Community (STATCOM) Network is:
+
+To provide pro-bono statistical consulting to local nonprofit, governmental, and community service organizations
+
+To engage students in voluntary, service-oriented statistical consulting and leadership.
+
+# Vision
+The vision of the Statistics in the Community (STATCOM) Network is:
+
+To apply statistical methods and principles to have a positive impact on communities and institutions that serve those communities
+
+To increase communication and collaboration among student statisticians engaged in service-oriented statistics.
+
+We welcome any college or university interested in starting such a program to join this Network.
+
+The materials available on this website will give you a better understanding of our work and help interested students start similar programs. As you review this information, please feel free to contact the current STATCOM presidentor, David Walker, at statcom@iastate.edu if you have any questions.
+
+Thank you for your interest in the Statistics in the Community (STATCOM) program!

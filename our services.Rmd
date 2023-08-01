@@ -1,0 +1,23 @@
+---
+title: "our services"
+author: "Anyesha Ray"
+date: "2023-08-01"
+output: html_document
+---
+
+
+Some of the services offered by STATCOM at Iowa State include:
+•	Cleaning and analyzing data
+•	Designing and analyzing surveys
+•	Education on how to use statistical software and Excel
+•	Finding meaningful information in large data sets
+•	Identifying trends and relationships in data
+•	Participating in educational activities at schools and community events
+•	Using data to inform decision making
+•	Visualizing and methods of summarizing data
+
+Potential clients include but are not limited to:
+•	Learning centers
+•	Libraries
+•	Schools
+•	City governments
